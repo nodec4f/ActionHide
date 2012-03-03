@@ -1,0 +1,7 @@
+## Interface: 40100
+## Title: ActionHide
+## Author: trulyg
+## Version: 1.0
+## Notes: ActionBar Hider
+
+blizzard.lua
